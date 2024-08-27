@@ -5,22 +5,22 @@
     "id": "${{TEAMS_APP_ID}}",
     "packageName": "com.microsoft.teams.extension",
     "developer": {
-        "name": "Teams App, Inc.",
-        "websiteUrl": "https://www.example.com",
-        "privacyUrl": "https://www.example.com/privacy",
-        "termsOfUseUrl": "https://www.example.com/termofuse"
+        "name": "Armely LLC.",
+        "websiteUrl": "https://www.armely.com",
+        "privacyUrl": "https://www.armely.com/privacy",
+        "termsOfUseUrl": "https://www.armely.com/termofuse"
     },
     "icons": {
         "color": "color.png",
         "outline": "outline.png"
     },
     "name": {
-        "short": "copilot java${{APP_NAME_SUFFIX}}",
-        "full": "full name for copilot java"
+        "short": "copilot${{APP_NAME_SUFFIX}}",
+        "full": "Armely Help DesK"
     },
     "description": {
-        "short": "short description for copilot java",
-        "full": "full description for copilot java"
+        "short": "Experience RAG in Teams",
+        "full": "Armely AI Assistance to guide users and answer questions using data from the AI Search index."
     },
     "accentColor": "#FFFFFF",
     "bots": [
